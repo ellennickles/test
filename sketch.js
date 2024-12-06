@@ -6,7 +6,7 @@ function setup() {
 
 function draw() {
   background(220);
-  fill(255, 0, 0)
+  fill(255, 255, 0)
   circle(x, height / 2, 50)
   
   if (x < width) {
